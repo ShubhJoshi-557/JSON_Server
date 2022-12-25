@@ -1,0 +1,169 @@
+{
+  "users": [
+    {
+      "id": 10,
+      "username": "Tiana_Hilll44",
+      "name": "Rosanna",
+      "email": "Waldo.Stark@yahoo.com",
+      "phone": "610-371-7490 x1581",
+      "website": "specific-howitzer.com",
+      "address": {
+        "street": "Damaris Haven",
+        "suite": "7291",
+        "city": "Marysville",
+        "zipcode": "75053"
+      },
+      "company": { "name": "Dickinson - Kihn" }
+    },
+    {
+      "id": 9,
+      "username": "Faye91",
+      "name": "Jarret",
+      "email": "Eloy_Jacobs79@gmail.com",
+      "phone": "(780) 703-2160 x056",
+      "website": "lone-fail.net",
+      "address": {
+        "street": "Hintz Burg",
+        "suite": "05895",
+        "city": "Urbana",
+        "zipcode": "27279-7384"
+      },
+      "company": { "name": "Walsh - Haag" }
+    },
+    {
+      "id": 8,
+      "username": "Timothy36",
+      "name": "Levi",
+      "email": "Marcos.McClure45@gmail.com",
+      "phone": "1-622-900-3601 x99122",
+      "website": "forked-movie.com",
+      "address": {
+        "street": "Theresa Flat",
+        "suite": "2750",
+        "city": "East Morganhaven",
+        "zipcode": "50281"
+      },
+      "company": { "name": "Kunde - Wintheiser" }
+    },
+    {
+      "id": 7,
+      "username": "Catalina_Strosin20",
+      "name": "Missouri",
+      "email": "Makayla11@gmail.com",
+      "phone": "1-866-968-6796",
+      "website": "creamy-jug.name",
+      "address": {
+        "street": "Arvid Meadow",
+        "suite": "0762",
+        "city": "Pembroke Pines",
+        "zipcode": "01483-8081"
+      },
+      "company": { "name": "Mayer, Effertz and Effertz" }
+    },
+    {
+      "id": 6,
+      "username": "Korey.Brekke",
+      "name": "Sandra",
+      "email": "Eriberto_Leannon37@gmail.com",
+      "phone": "590.531.8494",
+      "website": "another-revitalization.name",
+      "address": {
+        "street": "Amira Track",
+        "suite": "73446",
+        "city": "East Anya",
+        "zipcode": "61392"
+      },
+      "company": { "name": "Breitenberg and Sons" }
+    },
+    {
+      "id": 5,
+      "username": "Jerrod.Halvorson",
+      "name": "Amani",
+      "email": "Coty_Denesik40@hotmail.com",
+      "phone": "880.307.6413 x41131",
+      "website": "unique-lipoprotein.net",
+      "address": {
+        "street": "Tommie Bridge",
+        "suite": "730",
+        "city": "North Mossie",
+        "zipcode": "02383-0054"
+      },
+      "company": { "name": "Huel LLC" }
+    },
+    {
+      "id": 4,
+      "username": "Karine_Ferry31",
+      "name": "Bessie",
+      "email": "Dudley.Cremin@gmail.com",
+      "phone": "(727) 884-2277",
+      "website": "quick-diarist.com",
+      "address": {
+        "street": "Grady Roads",
+        "suite": "5237",
+        "city": "Abernathycester",
+        "zipcode": "76609-6264"
+      },
+      "company": { "name": "Kuphal - Pollich" }
+    },
+    {
+      "id": 3,
+      "username": "Schuyler.Cruickshank",
+      "name": "Dell",
+      "email": "Austin0@yahoo.com",
+      "phone": "1-950-401-1862 x319",
+      "website": "limping-aglet.name",
+      "address": {
+        "street": "Walker Island",
+        "suite": "29040",
+        "city": "South Krista",
+        "zipcode": "84779-0381"
+      },
+      "company": { "name": "Wiza - Kovacek" }
+    },
+    {
+      "id": 2,
+      "username": "Caleb2",
+      "name": "Kurt",
+      "email": "Marielle_Pouros@hotmail.com",
+      "phone": "1-441-666-7219",
+      "website": "delirious-poster.org",
+      "address": {
+        "street": "Orland Loop",
+        "suite": "552",
+        "city": "Mentor",
+        "zipcode": "29141"
+      },
+      "company": { "name": "Koss, Gerhold and Kassulke" }
+    },
+    {
+      "id": 1,
+      "username": "Felipa.Tromp",
+      "name": "Candice",
+      "email": "Matilda_Yundt10@hotmail.com",
+      "phone": "680-858-8850",
+      "website": "impractical-surgeon.com",
+      "address": {
+        "street": "Darlene Walk",
+        "suite": "3431",
+        "city": "Emiliecester",
+        "zipcode": "89674-9204"
+      },
+      "company": { "name": "Rice - Dooley" }
+    },
+    {
+      "id": 0,
+      "username": "Damian.Stoltenberg10",
+      "name": "Donna",
+      "email": "Roderick.McGlynn@hotmail.com",
+      "phone": "1-267-417-1591 x36268",
+      "website": "spiffy-tuba.biz",
+      "address": {
+        "street": "Francisco Manors",
+        "suite": "4830",
+        "city": "Aylinbury",
+        "zipcode": "61200"
+      },
+      "company": { "name": "Carroll, Herman and Corkery" }
+    }
+  ]
+}
